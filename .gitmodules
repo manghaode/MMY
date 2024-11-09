@@ -1,0 +1,3 @@
+[submodule "src/base"]
+	path = src/base
+	url = http://192.168.71.35:3001/manghaode/rsys.git
